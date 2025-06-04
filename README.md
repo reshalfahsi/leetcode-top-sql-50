@@ -13,3 +13,4 @@ Crack SQL Interview in 50 Qs
 ## Basic Join
 
 - [Replace Employee ID With The Unique Identifier](./replace_employee_id_with_the_unique_identifier)
+- [Product Sales Analysis I](./product_sales_analysis_1/)
