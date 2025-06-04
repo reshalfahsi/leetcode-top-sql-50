@@ -8,3 +8,4 @@ Crack SQL Interview in 50 Qs
 - [Find Customer Referee](./find_customer_referee)
 - [Big Countries](./big_countries)
 - [Article Views I](./article_views_1)
+- [Invalid Tweets](./invalid_tweets)
