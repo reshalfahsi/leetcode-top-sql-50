@@ -22,7 +22,7 @@ The result format is in the following example.
 
 ## **Example 1:**
 
-- **Input: **
+- **Input:**
 
 ```
 Customer table:
@@ -38,7 +38,7 @@ Customer table:
 +----+------+------------+
 ```
 
-- **Output: **
+- **Output:**
 
 ```
 +------+
