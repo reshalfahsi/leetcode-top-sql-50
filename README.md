@@ -15,3 +15,4 @@ Crack SQL Interview in 50 Qs
 - [Replace Employee ID With The Unique Identifier](./replace_employee_id_with_the_unique_identifier)
 - [Product Sales Analysis I](./product_sales_analysis_1/)
 - [Customer Who Visited but Did Not Make Any Transactions](./customer_who_visited_but_did_not_make_any_transactions/)
+- [Rising Temperature](./rising_temperature)
