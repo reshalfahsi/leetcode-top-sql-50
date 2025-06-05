@@ -25,3 +25,4 @@ Crack SQL Interview in 50 Qs
 ## Basic Aggregate Functions
 
 - [Not Boring Movies](./not_boring_movies)
+- [Average Selling Price](./average_selling_price)
