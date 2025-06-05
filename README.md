@@ -20,3 +20,4 @@ Crack SQL Interview in 50 Qs
 - [Employee Bonus](./employee_bonus)
 - [Students and Examinations](./students_and_examinations)
 - [Managers with at Least 5 Direct Reports](./managers_with_at_least_5_direct_reports)
+- [Confirmation Rate](./confirmation_rate)
