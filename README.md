@@ -27,3 +27,4 @@ Crack SQL Interview in 50 Qs
 - [Not Boring Movies](./not_boring_movies)
 - [Average Selling Price](./average_selling_price)
 - [Project Employees I](./project_employees_1)
+- [Percentage of Users Attended a Contest](./percentage_of_users_attended_a_contest)
