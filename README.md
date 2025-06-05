@@ -18,3 +18,4 @@ Crack SQL Interview in 50 Qs
 - [Rising Temperature](./rising_temperature)
 - [Average Time of Process per Machine](./average_time_of_process_per_machine)
 - [Employee Bonus](./employee_bonus)
+- [Students and Examinations](./students_and_examinations)
