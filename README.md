@@ -31,3 +31,4 @@ Crack SQL Interview in 50 Qs
 - [Queries Quality and Percentage](./queries_quality_and_percentage)
 - [Monthly Transactions I](./monthly_transaction_1)
 - [Immediate Food Delivery II](./immediate_food_delivery_2)
+- [Game Play Analysis IV](./game_play_analysis_4)
