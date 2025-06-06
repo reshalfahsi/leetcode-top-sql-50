@@ -41,3 +41,4 @@ Crack SQL Interview in 50 Qs
 - [Classes With at Least 5 Students](./classes_with_at_least_5_students)
 - [Find Followers Count](./find_followers_count)
 - [Biggest Single Number](./biggest_single_number)
+- [Customers Who Bought All Products](./customers_who_bought_all_products)
