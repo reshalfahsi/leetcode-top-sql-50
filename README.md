@@ -40,3 +40,4 @@ Crack SQL Interview in 50 Qs
 - [Product Sales Analysis III](./product_sales_analysis_3)
 - [Classes With at Least 5 Students](./classes_with_at_least_5_students)
 - [Find Followers Count](./find_followers_count)
+- [Biggest Single Number](./biggest_single_number)
