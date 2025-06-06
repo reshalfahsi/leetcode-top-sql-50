@@ -42,3 +42,7 @@ Crack SQL Interview in 50 Qs
 - [Find Followers Count](./find_followers_count)
 - [Biggest Single Number](./biggest_single_number)
 - [Customers Who Bought All Products](./customers_who_bought_all_products)
+
+## Advanced Select and Joins
+
+- [The Number of Employees Which Report to Each Employee](./the_number_of_employees_which_report_to_each_employee)
