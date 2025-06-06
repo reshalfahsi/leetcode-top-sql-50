@@ -66,7 +66,7 @@ Note that we do not care about days with zero active users.
 
 ## **Source**
 
-[1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher)
+[1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i)
 
 
 ## **[Back to Home](../)**

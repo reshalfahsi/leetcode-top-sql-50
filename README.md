@@ -37,3 +37,4 @@ Crack SQL Interview in 50 Qs
 
 - [Number of Unique Subjects Taught by Each Teacher](./number_of_unique_subjects_taught_by_each_teacher)
 - [User Activity for the Past 30 Days I](./user_activity_for_the_past_30_days_1)
+- [Product Sales Analysis III](./product_sales_analysis_3)
