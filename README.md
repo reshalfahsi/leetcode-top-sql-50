@@ -30,3 +30,4 @@ Crack SQL Interview in 50 Qs
 - [Percentage of Users Attended a Contest](./percentage_of_users_attended_a_contest)
 - [Queries Quality and Percentage](./queries_quality_and_percentage)
 - [Monthly Transactions I](./monthly_transaction_1)
+- [Immediate Food Delivery II](./immediate_food_delivery_2)
