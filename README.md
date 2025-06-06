@@ -32,3 +32,7 @@ Crack SQL Interview in 50 Qs
 - [Monthly Transactions I](./monthly_transaction_1)
 - [Immediate Food Delivery II](./immediate_food_delivery_2)
 - [Game Play Analysis IV](./game_play_analysis_4)
+
+## Sorting and Grouping
+
+- [Number of Unique Subjects Taught by Each Teacher](./number_of_unique_subjects_taught_by_each_teacher)
