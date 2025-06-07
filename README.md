@@ -49,3 +49,4 @@ Crack SQL Interview in 50 Qs
 - [Primary Department for Each Employee](./primary_department_for_each_employee)
 - [Triangle Judgement](./triangle_judgement)
 - [Consecutive Numbers](./consecutive_numbers)
+- [Product Price at a Given Date](./product_price_at_a_given_date)
