@@ -46,3 +46,4 @@ Crack SQL Interview in 50 Qs
 ## Advanced Select and Joins
 
 - [The Number of Employees Which Report to Each Employee](./the_number_of_employees_which_report_to_each_employee)
+- [Primary Department for Each Employee](./primary_department_for_each_employee)
