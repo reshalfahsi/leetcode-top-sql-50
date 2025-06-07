@@ -52,3 +52,7 @@ Crack SQL Interview in 50 Qs
 - [Product Price at a Given Date](./product_price_at_a_given_date)
 - [Last Person to Fit in the Bus](./last_person_to_fit_in_the_bus)
 - [Count Salary Categories](./count_salary_categories)
+
+## Subqueries
+
+- [Employees Whose Manager Left the Company](./employees_whose_manager_left_the_company)
