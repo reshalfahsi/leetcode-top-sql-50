@@ -61,3 +61,8 @@ Crack SQL Interview in 50 Qs
 - [Restaurant Growth](./restaurant_growth)
 - [Friend Requests II: Who Has the Most Friends](./friend_requests_2_who_has_the_most_friends)
 - [Investments in 2016](./investments_in_2016/)
+- [Department Top Three Salaries](./department_top_three_salaries)
+
+## Advanced String Functions / Regex / Clause
+
+- []()
