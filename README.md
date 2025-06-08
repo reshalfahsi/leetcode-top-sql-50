@@ -71,3 +71,4 @@ Crack SQL Interview in 50 Qs
 - [Second Highest Salary](./second_highest_salary)
 - [Group Sold Products By The Date](./group_sold_products_by_the_date)
 - [List the Products Ordered in a Period](./list_the_products_ordered_in_a_period)
+- [Find Users With Valid E-Mails](./find_users_with_valid_e_mails)
