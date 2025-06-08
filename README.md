@@ -60,3 +60,4 @@ Crack SQL Interview in 50 Qs
 - [Movie Rating](./movie_rating)
 - [Restaurant Growth](./restaurant_growth)
 - [Friend Requests II: Who Has the Most Friends](./friend_requests_2_who_has_the_most_friends)
+- [Investments in 2016](./investments_in_2016/)
