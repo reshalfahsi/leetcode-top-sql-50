@@ -69,3 +69,4 @@ Crack SQL Interview in 50 Qs
 - [Patients With a Condition](./patients_with_a_condition)
 - [Delete Duplicate Emails](./delete_duplicate_emails)
 - [Second Highest Salary](./second_highest_salary)
+- [Group Sold Products By The Date](./group_sold_products_by_the_date)
