@@ -65,4 +65,4 @@ Crack SQL Interview in 50 Qs
 
 ## Advanced String Functions / Regex / Clause
 
-- []()
+- [Fix Names in a Table](./fix_names_in_a_table)
