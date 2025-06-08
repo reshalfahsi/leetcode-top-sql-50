@@ -57,3 +57,4 @@ Crack SQL Interview in 50 Qs
 
 - [Employees Whose Manager Left the Company](./employees_whose_manager_left_the_company)
 - [Exchange Seats](./exchange_seats)
+- [Movie Rating](./movie_rating)
