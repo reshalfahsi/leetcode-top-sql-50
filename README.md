@@ -66,3 +66,4 @@ Crack SQL Interview in 50 Qs
 ## Advanced String Functions / Regex / Clause
 
 - [Fix Names in a Table](./fix_names_in_a_table)
+- [Patients With a Condition](./patients_with_a_condition)
